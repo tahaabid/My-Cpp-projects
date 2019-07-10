@@ -1,0 +1,17 @@
+Net Outdoor 500 4000 2000 L
+Basketballs Sports 400 2000 1000 E
+Jam Packaged 300 600 50 A3
+Footballs Sports 300 4000 2000 Z
+Footballs Sports 300 4000 2000 K
+Footballs Sports 200 3000 700 F3
+Vitamins Supplement 200 2000 250 V3
+Baseballs Sports 100 5000 1500 G
+Juice Bottled 45 6000 3000 J4
+Tobacco Drugs 40 30000 200 T3
+Nuts Packaged 15 15 15 D9
+Jellies Packaged 15 30000 10 D8
+Meat Perishable 15 20 1 D2
+Drinks Packaged 5 15 20 D1
+Chips Packaged 5 200 1500 C1
+Juice Bottled 50 500 30000 J0
+water bottled 30 500000 4000 W5
