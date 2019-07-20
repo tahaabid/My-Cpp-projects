@@ -7,3 +7,5 @@ Inventory.cpp is an inventory management system that allows one to keep track of
 The database is recorded in a file called "Database.txt"
 
 Phonebook.cpp is a phonebook. Users can store numbers of individuals and can ask the interface to sort them by the names, or search for particular entries that contain a partial match of a given input like all numbers containing the substring "Jo" in the name. The database is stored in r.txt and must be loaded manually each time the programme is run, this allows multiple phonebooks to be stored.
+
+Mega_program.ino is a program I wrote to control an arduino powered car through a mobile app. It allows users to change modes dynamically, choosing between Obstacle Avoidance, Line Tracking and manual Bluetooth control mode. 
